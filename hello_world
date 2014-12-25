@@ -7,4 +7,4 @@
 ; Script Function: Display Hello World
 ;
 
-Msgbox, Hello World
+Msgbox,0, Hello World, Hello World
